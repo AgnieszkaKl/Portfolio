@@ -17,6 +17,14 @@ My name is Agnieszka Klasa. I am qualified and high experienced administration p
 * creating test cases
 * reporting bugs
 
+# My practical knowledge
+* Site diagram created in draw.io
+  
+* Example of test cases
+
+* Example od bug reports
+  
+
 # Soft skills
 
 * team-player
