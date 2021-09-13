@@ -3,7 +3,7 @@ Thank you for your interest in my tester's portfolio.
 
 # About me
 
-My name is Agnieszka Klasa. I am qualified and high experienced administration profesional. I graduated from University of Business and Administration named by Eugeniusz Kwiatkowski in Gdynia, Poland. I have started to interest in software testing. My goals are to develop knowledge about testing parallel to achive practical experience to become quality assurance specialist.
+My name is Agnieszka Klasa. I am qualified and high experienced administration profesional. I graduated from University of Business and Administration named by Eugeniusz Kwiatkowski in Gdynia, Poland. I have started to interest in software testing. My goals are to develop knowledge about testing parallel to achive practical experience to become a Software Tester/Quality Assurance Specialist.
 
 # Tools
 
@@ -13,9 +13,9 @@ My name is Agnieszka Klasa. I am qualified and high experienced administration p
 
 # Technical skills
 
-* Software testing
-* Creating test cases
-* Reporting bugs
+* software testing
+* creating test cases
+* reporting bugs
 
 # Soft skills
 
